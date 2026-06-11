@@ -11,6 +11,7 @@ Shizuku supports startup in the following three ways.
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 [Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
+[Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
 
 :::
 
@@ -164,3 +165,4 @@ Don't click the dialog shows after connecting the USB, because it will change US
 ### Start via root: cannot start on boot
 
 Please allow Shizuku to run in the background.
+funcionar
